@@ -1,0 +1,5 @@
+D:\Projects\GPABuddy\GPABuddyUpdater\bin\Release\GPABuddyUpdater.exe
+D:\Projects\GPABuddy\GPABuddyUpdater\bin\Release\GPABuddyUpdater.pdb
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Release\GPABuddyUpdater.csproj.CoreCompileInputs.cache
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Release\GPABuddyUpdater.exe
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Release\GPABuddyUpdater.pdb

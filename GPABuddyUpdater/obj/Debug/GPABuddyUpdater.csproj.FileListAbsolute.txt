@@ -1,0 +1,6 @@
+D:\Projects\GPABuddy\GPABuddyUpdater\bin\Debug\GPABuddyUpdater.exe
+D:\Projects\GPABuddy\GPABuddyUpdater\bin\Debug\GPABuddyUpdater.pdb
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Debug\GPABuddyUpdater.csproj.CoreCompileInputs.cache
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Debug\GPABuddyUpdater.exe
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Debug\GPABuddyUpdater.pdb
+D:\Projects\GPABuddy\GPABuddyUpdater\obj\Debug\GPABuddyUpdater.csprojResolveAssemblyReference.cache
